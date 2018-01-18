@@ -1,0 +1,12 @@
+.banner{
+	background: url(../img/slika.jpg) no-repeat;
+	width:695px;
+	height: 231px; 
+
+}
+
+header h1{
+
+	background: url(../img/black+white.png) no-repeat;
+	text-indent: -9999px;
+}
